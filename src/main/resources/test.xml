@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+<books>
+	<book name="hello">
+		<price> 19.2</price>
+		<author>jack</author>
+		<version>1.0</version>
+		<isSale>false</isSale>
+	</book>
+	<book name="hello1">
+		<price> 19.2</price>
+		<author>jack</author>
+		<version>1.0</version>
+		<isSale>false</isSale>
+	</book>
+	<book name="hello2">
+		<price> 19.2</price>
+		<author>lucy</author>
+		<version>1.0</version>
+		<isSale>true</isSale>
+	</book>
+	<book name="hello3">
+		<price> 19.2</price>
+		<author>tom</author>
+		<version>1.0</version>
+		<isSale>true</isSale>
+	</book>
+	<book name="hello4">
+		<price> 19.2</price>
+		<author>May</author>
+		<version>1.0</version>
+		<isSale>true</isSale>
+	</book>
+	<book name="hello">
+		<price> 19.2</price>
+		<author>Ivy</author>
+		<version>1.0</version>
+		<isSale>false</isSale>
+	</book>
+</books>
+<name>testXML</name>
+</xml>
